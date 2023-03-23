@@ -1,0 +1,25 @@
+table,td,th{
+    border: 1px solid;
+}
+th{
+    background-color:#80ff00;
+    color:#202020;
+}
+thead{
+    color: rgb(0, 0, 0);
+}
+tbody{
+    color: rgb(0, 0, 0);
+}
+tfoot{
+    color:green;
+}
+td,th{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+table{
+    border-collapse: collapse;
+}
